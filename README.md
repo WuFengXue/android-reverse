@@ -52,6 +52,7 @@
   + AndroidStudio调试smali代码
 + [AXmlPrinter2](http://code.google.com/p/android4me/downloads/list)
   + 反编译Androidmanifest.xml的工具
+  + 反编译后的结果会输出到控制台
   + 当前已经很少使用了
 + [Charles](https://www.charlesproxy.com/)
   + 网络抓包工具
