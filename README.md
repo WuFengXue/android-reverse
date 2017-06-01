@@ -41,8 +41,28 @@
 + [codeinspect](http://sseblog.ec-spride.de/tools/codeinspect/)
    + 支持调试
    + 可以IDE中编辑反编译后文件
-+ [https://bytecodeviewer.com/](https://bytecodeviewer.com/)   
-　 + 集成了J-RET,JHexPane, Dex2Jar等多个反编译工具
++ [BytecodeViewer](https://bytecodeviewer.com/)   
+  + 集成了J-RET,JHexPane, Dex2Jar等多个反编译工具
 + [ClassyShark](https://github.com/google/android-classyshark)
    + Google的apk查看工具
    + 可以分析出apk的结构以及依赖信息
++ [smali/baksmali/smalidea](https://github.com/JesusFreke/smali)
+  + 将dex反编译成smali
+  + 将smali回编译成dex
+  + AndroidStudio调试smali代码
++ [AXmlPrinter2](http://code.google.com/p/android4me/downloads/list)
+  + 反编译Androidmanifest.xml的工具
+  + 当前已经很少使用了
++ [Charles](https://www.charlesproxy.com/)
+  + 网络抓包工具
++ [.NET Reflector](http://www.red-gate.com/products/dotnet-development/reflector/)
+  + dll反编译工具
++ [UnityStudio](https://github.com/Perfare/UnityStudio)
+  + Unity游戏资源提取工具
+  + 支持资源预览
++ [icodetools](https://github.com/fourbrother/icodetools)
+  + 动态插入log代码到apk中的每个方法中的工具
+  + 只支持JDK1.7以及以下版本编译器
++ [java2smali](https://github.com/ollide/intellij-java2smali)
+  + Android Studio插件
+  + 支持将java和Kotlin文件编译成smali文件
