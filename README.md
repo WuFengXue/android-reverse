@@ -67,3 +67,5 @@
 + [java2smali](https://github.com/ollide/intellij-java2smali)
   + Android Studio插件
   + 支持将java和Kotlin文件编译成smali文件
+
+[**工具下载**](http://pan.baidu.com/s/1dFjB0pr)
