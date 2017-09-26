@@ -32,6 +32,7 @@
 
 [android 反编译 反调试入门资料](http://blog.csdn.net/u012889434/article/details/52180939)
 
+[逆向修改手机内核，绕过反调试](https://bbs.pediy.com/thread-207538.htm)
 
 ## Xposed
 
