@@ -37,10 +37,17 @@
 
 [Xposed Framework API](http://api.xposed.info/reference/packages.html)
 
-[]()
-[]()
-[]()
-[]()
+
+## ida
+
+[ IDA调试so文件基础篇](http://blog.csdn.net/u012195899/article/details/52780062?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[如何使用ida在apk执行前动态调试其so中的函数](https://bbs.pediy.com/thread-178659.htm)
+
+[使用IDA Pro调试so文件](http://blog.csdn.net/gaojinshan/article/details/45538337)
+
+[利用IDA Pro分析Android软件基础教程 ](https://www.52pojie.cn/thread-237886-1-1.html)
+
 []()
 []()
 []()
