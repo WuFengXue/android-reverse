@@ -34,6 +34,9 @@
 
 [逆向修改手机内核，绕过反调试](https://bbs.pediy.com/thread-207538.htm)
 
+[修改系统内核 绕过反调试 TracerPid为0](http://www.voidcn.com/article/p-cfhhvarp-beo.html)
+
+
 ## Xposed
 
 [Xposed Framework API](http://api.xposed.info/reference/packages.html)
