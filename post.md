@@ -21,10 +21,17 @@
 
 [Android VMP加壳 POC](http://www.cnblogs.com/develop/p/4397397.html)
 
-[]()
-[]()
-[]()
-[]()
+
+## 反调试
+
+[ Inject Zygote and Hook Native Method(过反调试，过防dump)](http://blog.csdn.net/jltxgcy/article/details/52201279)
+
+[Android进程的so注入--Poison（稳定注入版）](http://blog.csdn.net/qq1084283172/article/details/53869796)
+
+[通过inotify实现反调试](http://burningcodes.net/通过inotify实现反调试/)
+
+[android 反编译 反调试入门资料](http://blog.csdn.net/u012889434/article/details/52180939)
+
 []()
 []()
 []()
