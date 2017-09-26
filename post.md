@@ -32,7 +32,11 @@
 
 [android 反编译 反调试入门资料](http://blog.csdn.net/u012889434/article/details/52180939)
 
-[]()
+
+## Xposed
+
+[Xposed Framework API](http://api.xposed.info/reference/packages.html)
+
 []()
 []()
 []()
