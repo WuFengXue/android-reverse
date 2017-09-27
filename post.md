@@ -27,6 +27,8 @@
 
 [通过Android重打包加固APK拦截软件行为 （源码）](https://bbs.pediy.com/thread-178811.htm)
 
+[Android安全防护之旅---应用防dex2jar工具反编译原理实现](Android安全防护之旅---应用防dex2jar工具反编译原理实现)
+
 
 ## 脱壳
 
