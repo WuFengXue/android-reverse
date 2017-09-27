@@ -18,6 +18,8 @@
 
 [谈谈移动应用加固 - LBE](https://wenku.baidu.com/view/2ab3ef63ba1aa8114431d9d3.html)
 
+[通过Android重打包加固APK拦截软件行为 （源码）](https://bbs.pediy.com/thread-178811.htm)
+
 
 ## 脱壳
 
