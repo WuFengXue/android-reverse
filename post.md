@@ -70,6 +70,8 @@
 
 [MT管理器2.0](https://www.coolapk.com/apk/bin.mt.plus)
 
+[Android动态逆向分析工具ZjDroid--脱壳神器](https://bbs.pediy.com/thread-190494.htm)
+
 
 ## Xposed
 
