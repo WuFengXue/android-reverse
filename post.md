@@ -12,6 +12,11 @@
 [android5.0上，安装apk时校验dex文件的magic version是否为035](http://blog.csdn.net/yhtppp/article/details/44829449)
 
 
+## 虚拟机
+
+[深入理解Android之Java虚拟机Dalvik](http://blog.csdn.net/innost/article/details/50377905)
+
+
 ## 加固
 
 [Android中的Apk的加固(加壳)原理解析和实现（转）](http://www.cnblogs.com/cute/p/4809386.html)
