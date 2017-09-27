@@ -16,6 +16,8 @@
 
 [安卓apk简单加固防修改](安卓apk简单加固防修改)
 
+[谈谈移动应用加固 - LBE](https://wenku.baidu.com/view/2ab3ef63ba1aa8114431d9d3.html)
+
 
 ## 脱壳
 
