@@ -39,6 +39,8 @@
 
 [Android VMP加壳 POC](http://www.cnblogs.com/develop/p/4397397.html)
 
+[从Android运行时出发，打造我们的脱壳神器 | WooYun知识库](http://www.360doc.com/content/16/0611/16/9200790_566772094.shtml)
+
 
 ## 反调试
 
