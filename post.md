@@ -14,6 +14,8 @@
 
 [Android中的Apk的加固(加壳)原理解析和实现（转）](http://www.cnblogs.com/cute/p/4809386.html)
 
+[安卓apk简单加固防修改](安卓apk简单加固防修改)
+
 
 ## 脱壳
 
