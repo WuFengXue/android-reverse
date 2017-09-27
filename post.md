@@ -39,7 +39,7 @@
 
 ## 工具
 [Android中利用icodetools工具快速定位App破解中关键点方法](http://blog.csdn.net/jiangwei0910410003/article/details/53443202)
-[]()
+[26款优秀的Android逆向工程工具](http://www.open-open.com/lib/view/open1471487934377.html)
 
 ## Xposed
 
