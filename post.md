@@ -9,6 +9,8 @@
 
 [浅析dex文件加载机制](http://www.cnblogs.com/lanrenxinxin/p/4712224.html)
 
+[android5.0上，安装apk时校验dex文件的magic version是否为035](http://blog.csdn.net/yhtppp/article/details/44829449)
+
 
 ## 加固
 
