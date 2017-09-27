@@ -66,6 +66,8 @@
 
 [Android反编译工具的使用-Android Killer](http://www.cnblogs.com/common1140/p/5198460.html)
 
+[MT管理器2.0](https://www.coolapk.com/apk/bin.mt.plus)
+
 
 ## Xposed
 
