@@ -37,6 +37,10 @@
 [修改系统内核 绕过反调试 TracerPid为0](http://www.voidcn.com/article/p-cfhhvarp-beo.html)
 
 
+## 工具
+[Android中利用icodetools工具快速定位App破解中关键点方法](http://blog.csdn.net/jiangwei0910410003/article/details/53443202)
+[]()
+
 ## Xposed
 
 [Xposed Framework API](http://api.xposed.info/reference/packages.html)
