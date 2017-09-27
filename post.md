@@ -7,6 +7,8 @@
 
 [Android Dex文件结构](http://xiaoruanjian.iteye.com/blog/1369341)
 
+[浅析dex文件加载机制](http://www.cnblogs.com/lanrenxinxin/p/4712224.html)
+
 
 ## 加固
 
