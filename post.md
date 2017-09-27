@@ -1,6 +1,10 @@
 # 逆向博文汇总
 
 
+## 加固
+[Android中的Apk的加固(加壳)原理解析和实现（转）](http://www.cnblogs.com/cute/p/4809386.html)
+
+
 ## 脱壳
 
 [一种常规Android脱壳技术的拓展（附工具）](https://www.52pojie.cn/thread-501646-1-1.html)
