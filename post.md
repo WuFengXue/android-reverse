@@ -5,6 +5,8 @@
 
 [Android Dex文件结构解析](http://blog.csdn.net/feglass/article/details/51761902)
 
+[Android Dex文件结构](http://xiaoruanjian.iteye.com/blog/1369341)
+
 
 ## 加固
 
