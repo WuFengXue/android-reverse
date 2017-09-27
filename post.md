@@ -1,6 +1,11 @@
 # 逆向博文汇总
 
 
+## Dex
+
+[Android Dex文件结构解析](http://blog.csdn.net/feglass/article/details/51761902)
+
+
 ## 加固
 
 [Android中的Apk的加固(加壳)原理解析和实现（转）](http://www.cnblogs.com/cute/p/4809386.html)
