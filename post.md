@@ -100,6 +100,8 @@
 
 [利用IDA Pro分析Android软件基础教程 ](https://www.52pojie.cn/thread-237886-1-1.html)
 
+[安卓动态调试七种武器之孔雀翎 – Ida Pro](https://yq.aliyun.com/articles/54779?spm=5176.100240.searchblog.109.HEmrYh)
+
 
 ## 课程
 
