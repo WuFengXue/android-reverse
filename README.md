@@ -1,6 +1,12 @@
 # android-reverse
 
 ### 安卓逆向工具汇总
++ [Frida](https://www.frida.re/): 
+
+  + 代码插桩工具
+  + 使用Python提供API，用JavaScript编写hook代码
+  + 支持hook java层
+  + 支持hook native 层
 + [apktool](https://ibotpeaches.github.io/Apktool/): 
 
   + 编译res资源
