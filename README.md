@@ -74,4 +74,4 @@
   + Android Studio插件
   + 支持将java和Kotlin文件编译成smali文件
 
-[**工具下载**](http://pan.baidu.com/s/1dFjB0pr)
+[**工具下载**](https://pan.baidu.com/s/1wLQyg6JD8MnJgklhlfczZw)   **提取码**: 3afd
