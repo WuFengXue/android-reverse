@@ -1,6 +1,13 @@
 # android-reverse
 
 ### 安卓逆向工具汇总
+
+* [FDex2](https://bbs.pediy.com/thread-224105.htm)
+  * 安卓xposed脱壳工具
+  * 通过Hook ClassLoader的loadClass方法，反射调用getDex方法取得Dex(com.android.dex.Dex类对象)，再将里面的dex写出
+  * 安卓4.4以上的手机或模拟器
+  * 其它看软件提示
+
 + [Frida](https://www.frida.re/): 
 
   + 代码插桩工具
@@ -48,6 +55,7 @@
    + 支持调试
    + 可以IDE中编辑反编译后文件
 + [BytecodeViewer](https://bytecodeviewer.com/)   
+  
   + 集成了J-RET,JHexPane, Dex2Jar等多个反编译工具
 + [ClassyShark](https://github.com/google/android-classyshark)
    + Google的apk查看工具
@@ -61,8 +69,10 @@
   + 反编译后的结果会输出到控制台
   + 当前已经很少使用了
 + [Charles](https://www.charlesproxy.com/)
+  
   + 网络抓包工具
 + [.NET Reflector](http://www.red-gate.com/products/dotnet-development/reflector/)
+  
   + dll反编译工具
 + [UnityStudio](https://github.com/Perfare/UnityStudio)
   + Unity游戏资源提取工具
