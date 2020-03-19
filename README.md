@@ -1,6 +1,4 @@
-# android-reverse
-
-## 安卓逆向工具汇总 / Awsome Android Reverse Tools
+# 安卓逆向工具汇总 / Awsome Android Reverse Tools
 
 ### 脱壳 / Unshell
 
@@ -13,8 +11,13 @@
 
 ### so库 / Native
 
+* [IDA Pro](https://www.hex-rays.com/products/ida/)
+  * __目前最棒的反编译软件__（商业软件，网上可以找到破解版，真有能力的建议支持下正版）
+  * 支持 java、native
+  * 支持动态调试
+
 * [Frida](https://www.frida.re/): 
-* 代码插桩工具
+  * 代码插桩工具
   * 使用Python提供API，用JavaScript编写hook代码
   * 支持hook java层
   * 支持hook native 层
@@ -105,8 +108,12 @@
 
 ### 游戏 / Games
 
-* [.NET Reflector](http://www.red-gate.com/products/dotnet-development/reflector/)
+* [ILSpy](https://github.com/icsharpcode/ILSpy)
+  * 开源的 .NET 反编译工具
+* [dnSpy](https://github.com/0xd4d/dnSpy)
+  * 开源的 .NET 调试和反编译工具
 
+* [.NET Reflector](http://www.red-gate.com/products/dotnet-development/reflector/)
   * dll反编译工具
 * [UnityStudio](https://github.com/Perfare/UnityStudio)
   * Unity游戏资源提取工具
@@ -115,3 +122,4 @@
 
 
 [**工具下载**](https://pan.baidu.com/s/1wLQyg6JD8MnJgklhlfczZw)   **提取码**: 3afd
+
