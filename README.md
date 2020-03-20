@@ -15,12 +15,16 @@
   * __目前最棒的反编译软件__（商业软件，网上可以找到破解版，真有能力的建议支持下正版）
   * 支持 java、native
   * 支持动态调试
-
 * [Frida](https://www.frida.re/): 
   * 代码插桩工具
   * 使用Python提供API，用JavaScript编写hook代码
   * 支持hook java层
   * 支持hook native 层
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra)
+  * 由美国国家安全局（NSA）研究部门开发的软件逆向工程（SRE）套件
+  * 支持Windows、Mac OS和Linux
+  * 功能包括反汇编，汇编，反编译，绘图和脚本等
+  * [[翻译]Ghidra简介](https://bbs.pediy.com/thread-250056.htm)
 
 ### 带界面的工具 / GUI Tools
 
@@ -126,5 +130,8 @@
 
 
 
-[**工具下载**](https://pan.baidu.com/s/1wLQyg6JD8MnJgklhlfczZw)   **提取码**: 3afd
+## [**工具下载**](https://pan.baidu.com/s/1wLQyg6JD8MnJgklhlfczZw)   **提取码**: 3afd
 
+
+
+## [附：逆向博文汇总](https://github.com/WuFengXue/android-reverse/blob/master/post.md)
