@@ -123,5 +123,7 @@
 
 [droidsec](http://www.droidsec.cn)
 
-[]()
-[]()
+## 开源项目
+
+[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+
