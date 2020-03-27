@@ -7,6 +7,10 @@
   * 通过Hook ClassLoader的loadClass方法，反射调用getDex方法取得Dex(com.android.dex.Dex类对象)，再将里面的dex写出
   * 安卓4.4以上的手机或模拟器
   * 其它看软件提示
+* [FART](https://github.com/hanbinglengyue/FART)
+  * ART环境下自动化脱壳方案
+  * 支持6.0到8.0，理论支持任意ART系统，需要刷机
+  * 更多的脱壳机镜像[AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy)
 
 
 ### so库 / Native
