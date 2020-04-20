@@ -125,12 +125,15 @@
   * 开源的 .NET 反编译工具
 * [dnSpy](https://github.com/0xd4d/dnSpy)
   * 开源的 .NET 调试和反编译工具
-
 * [.NET Reflector](http://www.red-gate.com/products/dotnet-development/reflector/)
   * dll反编译工具
 * [UnityStudio](https://github.com/Perfare/UnityStudio)
   * Unity游戏资源提取工具
   * 支持资源预览
+* [Il2CppDumper](https://github.com/Perfare/Il2CppDumper)
+  * Windows 平台下的 Unity il2cpp 逆向工具
+  * 还原DLL文件（不包含代码），可用于提取`MonoBehaviour`和`MonoScript`
+  * 生成IDA和Ghidra的脚本，帮助IDA和Ghidra更好的分析il2cpp文件
 
 
 
