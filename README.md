@@ -134,6 +134,10 @@
   * Windows 平台下的 Unity il2cpp 逆向工具
   * 还原DLL文件（不包含代码），可用于提取`MonoBehaviour`和`MonoScript`
   * 生成IDA和Ghidra的脚本，帮助IDA和Ghidra更好的分析il2cpp文件
+* [GameGuardian](https://gameguardian.net/download)
+  * a game cheat / hack / alteration tool
+  * modify money, HP, SP, and much more
+  * **ROOT or VIRTUAL ENVIRONMENT ONLY**
 
 
 
