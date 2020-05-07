@@ -29,6 +29,10 @@
   * 支持Windows、Mac OS和Linux
   * 功能包括反汇编，汇编，反编译，绘图和脚本等
   * [[翻译]Ghidra简介](https://bbs.pediy.com/thread-250056.htm)
+* [SoFixer](https://github.com/F8LEFT/SoFixer)
+  * so 修复相关（支持内存 dump so 的 section 修复）
+  * 原理：[[原创]简单粗暴的so加解密实现](https://bbs.pediy.com/thread-191649.htm)
+  * 编译好的工具：[下载地址](https://github.com/WuFengXue/AndroidBinUtils/releases/tag/SoFixer-v0.2)
 
 ### 带界面的工具 / GUI Tools
 
