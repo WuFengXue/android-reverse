@@ -33,6 +33,10 @@
   * so 修复相关（支持内存 dump so 的 section 修复）
   * 原理：[[原创]简单粗暴的so加解密实现](https://bbs.pediy.com/thread-191649.htm)
   * 编译好的工具：[下载地址](https://github.com/WuFengXue/AndroidBinUtils/releases/tag/SoFixer-v0.2)
+* [unicorn](https://github.com/unicorn-engine/unicorn)
+  * 一款非常优秀的跨平台模拟执行框架
+  * 该框架可以跨平台执行Arm, Arm64 (Armv8), M68K, Mips, Sparc, & X86 (include X86_64)等指令集的原生程序
+  * 参考：[Unicorn 在 Android 的应用](https://bbs.pediy.com/thread-253868.htm)
 
 ### 带界面的工具 / GUI Tools
 
