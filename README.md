@@ -93,21 +93,17 @@
   * 编译res资源
   * 转成smali
   * 将修改后的smali回编译为apk
-
 * [enjarfy](https://github.com/google/enjarify)：
   * google的反编译工具
   * 可以将dalvik bytecode转化为java bytecode
   * 比dex2jar支持case更多
-
 * [dex2jar](https://github.com/pxb1988/dex2jar): 
   * dex转为jar工具
   * 转成smali并且回编译
-
 * [smali/baksmali/smalidea](https://github.com/JesusFreke/smali)
   * 将dex反编译成smali
   * 将smali回编译成dex
   * AndroidStudio调试smali代码
-
 * [icodetools](https://github.com/fourbrother/icodetools)
   * 动态插入log代码到apk中的每个方法中的工具
   * 只支持JDK1.7以及以下版本编译器
@@ -115,6 +111,9 @@
   * 反编译Androidmanifest.xml的工具
   * 反编译后的结果会输出到控制台
   * 当前已经很少使用了
+* [uber-apk-signer](https://github.com/patrickfav/uber-apk-signer)
+  * 签名辅助工具，集成了签名相关的常用操作 / A tool that helps signing, [zip aligning](https://developer.android.com/studio/command-line/zipalign.html) and verifying multiple Android application packages (APKs) with either debug or provided release certificates (or multiple)
+  * 支持安卓v1、v2和v3签名 / supports v1, v2 and v3 android apk singing scheme
 
 ### 抓包 / Web Debugging Proxy
 
