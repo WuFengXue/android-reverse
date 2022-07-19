@@ -37,6 +37,9 @@
   * 一款非常优秀的跨平台模拟执行框架
   * 该框架可以跨平台执行Arm, Arm64 (Armv8), M68K, Mips, Sparc, & X86 (include X86_64)等指令集的原生程序
   * 参考：[Unicorn 在 Android 的应用](https://bbs.pediy.com/thread-253868.htm)
+* [zhkl0228](https://github.com/zhkl0228)/**[unidbg](https://github.com/zhkl0228/unidbg)**
+  * 一个基于 unicorn 的逆向工具，可以黑盒调用安卓和 iOS 中的 so 文件
+  * Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental iOS emulation
 
 ### 带界面的工具 / GUI Tools
 
