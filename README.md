@@ -89,6 +89,11 @@
 * [BytecodeViewer](https://bytecodeviewer.com/)   
   
   * 集成了J-RET,JHexPane, Dex2Jar等多个反编译工具
+  
+* [Apk Easy Tool](https://forum.xda-developers.com/t/discontinued-windows-apk-easy-tool-v1-60-2022-06-23.3333960/)
+
+   * 轻量级的GUI应用程序，能够管理、签名、编译和反编译APK、DEX以及Jar文件，支持文件拖拽，简单易用，功能强大，对待Android逆向新手十分友好
+   * 集成多个命令行工具，如apktool、dex2jar、baksmali等
 
 ### 命令行工具 / Command Line Tools
 
