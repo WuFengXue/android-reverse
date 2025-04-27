@@ -41,6 +41,12 @@
   * 一个基于 unicorn 的逆向工具，可以黑盒调用安卓和 iOS 中的 so 文件
   * Allows you to emulate an Android ARM32 and/or ARM64 native library, and an experimental iOS emulation
 
+* [Binary Ninja](https://binary.ninja/)
+
+  * 一款交互式反编译器、反汇编器、调试器和二进制分析平台
+
+  * an interactive decompiler, disassembler, debugger, and binary analysis platform built by reverse engineers, for reverse engineers
+
 ### 带界面的工具 / GUI Tools
 
 * [jeb](https://www.pnfsoftware.com/)
